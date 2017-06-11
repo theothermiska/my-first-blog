@@ -25,8 +25,7 @@ SECRET_KEY = '4*1th&(xg5whdu$6i&l84@61wbt*xx%8gjg&w4)l%4)ema&igf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<theothermiska>.pythonanywhere.com']
-
+ALLOWED_HOSTS = ['127.0.0.1', 'theothermiska.pythonanywhere.com']
 
 # Application definition
 
